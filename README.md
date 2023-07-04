@@ -1,3 +1,3 @@
 - 👋 Hola, soy @oalejandroelias
 - 👀 Programador web fullstack.
-- 🌱 Actualmente estoy aprendiendo Reactjs y enfocandome en el frontend.
+
