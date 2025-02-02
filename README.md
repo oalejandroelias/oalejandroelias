@@ -1,3 +1,3 @@
-- 👋 Hola, soy @oalejandroelias
-- 👀 Programador web fullstack.
+- 👋 Hola, soy Alejandro.
+- Web developer.
 
